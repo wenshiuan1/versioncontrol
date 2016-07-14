@@ -1,0 +1,14 @@
+{
+    "name": "php/phpmvc",
+    "description": "test_project",
+    "type": "Project",
+    "license": "Personal",
+    "authors": [
+        {
+            "name": "Alice",
+            "email": "wenshiuan1@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
